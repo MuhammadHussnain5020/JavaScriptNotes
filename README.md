@@ -1,1 +1,2 @@
 # JavaScriptNotes
+These are notes
